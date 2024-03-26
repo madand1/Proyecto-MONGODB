@@ -1,0 +1,340 @@
+{
+      "id": 1,
+      "NombrePropietario": "Stévina",
+      "ApellidoPropietario": "Strowger",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "bstrowger0@newsvine.com",
+      "Marca": "GMC",
+      "Modelo": "Yukon XL 2500",
+      "Año": 2005,
+      "Color": ["Violeta","Gris","Amarillo"],
+      "Disponibilidad": true,
+      "CV": 139,
+      "metadata":{
+        "sourceName": "GMC",
+        "sourceUrl" : "https://www.gmc.com/"
+      }
+    }
+ {
+      "id": 2,
+      "NombrePropietario": "Estée",
+      "ApellidoPropietario": "Ratray",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "cratray1@so-net.ne.jp",
+      "Marca": "Lexus",
+      "Modelo": "RX",
+      "Año": 2012,
+      "Color": ["Rosa","Negro"],
+      "Disponibilidad": false,
+      "CV": 103,
+      "metadata":{
+        "sourceName": "Lexus",
+        "sourceUrl" : "https://www.lexusauto.es/"
+      }
+    }
+ {
+      "id": 3,
+      "NombrePropietario": "Andrée",
+      "ApellidoPropietario": "Gianolini",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "cgianolini2@unblog.fr",
+      "Marca": "GMC",
+      "Modelo": "Sierra 2500",
+      "Año": 2007,
+      "Color": ["Fuscia"],
+      "Disponibilidad": true,
+      "CV": 147,
+      "metadata":{
+        "sourceName": "GMC",
+        "sourceUrl" : "https://www.gmc.com/"
+      }
+    }
+ {
+      "id": 4,
+      "NombrePropietario": "Judicaël",
+      "ApellidoPropietario": "Folbigg",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "kfolbigg3@tumblr.com",
+      "Marca": "Lexus",
+      "Modelo": "LX",
+      "Año": 1999,
+      "Color": ["Fuscia","Amarillo","Naranja","Rojo"],
+      "Disponibilidad": true,
+      "CV": 83,
+      "metadata":{
+        "sourceName": "Lexus",
+        "sourceUrl" : "https://www.lexusauto.es/"
+      }
+    }
+ {
+      "id": 5,
+      "NombrePropietario": "Marie-thérèse",
+      "ApellidoPropietario": "Somersett",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "ssomersett4@newsvine.com",
+      "Marca": "Cadillac",
+      "Modelo": "STS",
+      "Año": 2006,
+      "Color": ["Fuscia","Naranja","Rojo"],
+      "Disponibilidad": true,
+      "CV": 91,
+      "metadata":{
+        "sourceName": "Cadillac",
+        "sourceUrl" : "https://www.cadillac.com/"
+      }
+    }
+ {
+      "id": 6,
+      "NombrePropietario": "Mélanie",
+      "ApellidoPropietario": "Hedon",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "fhedon5@goo.gl",
+      "Marca": "Saturn",
+      "Modelo": "S-Series",
+      "Año": 1993,
+      "Color": ["Verde","Azul","Naranja","Negro"],
+      "Disponibilidad": false,
+      "CV": 125,
+      "metadata":{
+        "sourceName": "Wikipedia",
+        "sourceUrl" : "https://es.wikipedia.org/wiki/Saturn_Corporation"
+      }
+    }
+ {
+      "id": 7,
+      "NombrePropietario": "Faîtes",
+      "ApellidoPropietario": "Habin",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "bhabin6@51.la",
+      "Marca": "MINI",
+      "Modelo": "Clubman",
+      "Año": 2010,
+      "Color": ["Negro","Azul","Naranja","Blanco"],
+      "Disponibilidad": false,
+      "CV": 135,
+      "metadata":{
+        "sourceName": "MINI",
+        "sourceUrl" : "https://www.mini.es/"
+      }
+    }
+ {
+      "id": 8,
+      "NombrePropietario": "Léana",
+      "ApellidoPropietario": "Aubrey",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "daubrey7@hostgator.com",
+      "Marca": "Mercury",
+      "Modelo": "Sable",
+      "Año": 2008,
+      "Color": ["Negro","Verde","Gris"],
+      "Disponibilidad": false,
+      "CV": 119,
+      "metadata":{
+        "sourceName": "Wikipedia",
+        "sourceUrl" : "https://es.wikipedia.org/wiki/Mercury_(autom%C3%B3viles)"
+      }
+    }
+ {
+      "id": 9,
+      "NombrePropietario": "Céline",
+      "ApellidoPropietario": "Pellew",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "apellew8@google.pl",
+      "Marca": "GMC",
+      "Modelo": "1500 Club Coupe",
+      "Año": 1995,
+      "Color": ["Negro","Gris"],
+      "Disponibilidad": true,
+      "CV": 88,
+      "metadata":{
+        "sourceName": "GMC",
+        "sourceUrl" : "https://www.gmc.com/"
+      }
+    }
+ {
+      "id": 10,
+      "NombrePropietario": "Nadège",
+      "ApellidoPropietario": "Gatfield",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "hgatfield9@tinyurl.com",
+      "Marca": "Nissan",
+      "Modelo": "Versa",
+      "Año": 2011,
+      "Color": ["Lima","Gris"],
+      "Disponibilidad": false,
+      "CV": 119,
+      "metadata":{
+        "sourceName": "Nissan",
+        "sourceUrl" : "https://www.nissan.es/"
+      }
+    }
+ {
+      "id": 11,
+      "NombrePropietario": "Josée",
+      "ApellidoPropietario": "Achrameev",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "aachrameeva@4shared.com",
+      "Marca": "Infiniti",
+      "Modelo": "QX",
+      "Año": 2008,
+      "Color": ["Negro"],
+      "Disponibilidad": false,
+      "CV": 85,
+      "metadata":{
+        "sourceName": "Infiniti",
+        "sourceUrl" : "https://www.infiniti.com/"
+      }
+    }
+  {
+      "id": 12,
+      "NombrePropietario": "Léana",
+      "ApellidoPropietario": "Seden",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "wsedenb@infoseek.co.jp",
+      "Marca": "Suzuki",
+      "Modelo": "Sidekick",
+      "Año": 1992,
+      "Color": ["Gris"],
+      "Disponibilidad": false,
+      "CV": 133,
+      "metadata":{
+        "sourceName": "Suzuki",
+        "sourceUrl" : "https://www.suzuki.es"
+      }
+    }
+ {
+      "id": 13,
+      "NombrePropietario": "Régine",
+      "ApellidoPropietario": "Troni",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "utronic@miitbeian.gov.cn",
+      "Marca": "Plymouth",
+      "Modelo": "Colt",
+      "Año": 1993,
+      "Color": ["Naranja","Azul","Amarillo","Gris"],
+      "Disponibilidad": true,
+      "CV": 101,
+      "metadata":{
+        "sourceName": "Wikipedia",
+        "sourceUrl" : "https://es.wikipedia.org/wiki/Plymouth_(autom%C3%B3viles)"
+      }
+    }
+ {
+      "id": 14,
+      "NombrePropietario": "Méghane",
+      "ApellidoPropietario": "Goade",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "kgoaded@de.vu",
+      "Marca": "Pontiac",
+      "Modelo": "Bonneville",
+      "Año": 1992,
+      "Color": ["Blanco","Plata","Gris"],
+      "Disponibilidad": true,
+      "CV": 103,
+      "metadata":{
+        "sourceName": "Wikipedia",
+        "sourceUrl" : "https://es.wikipedia.org/wiki/Pontiac"
+      }
+    }
+ {
+      "id": 15,
+      "NombrePropietario": "Maëlle",
+      "ApellidoPropietario": "Rubel",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "wrubele@columbia.edu",
+      "Marca": "Audi",
+      "Modelo": "RS6",
+      "Año": 2003,
+      "Color": ["Marrón","Azul","Gris","Plata"],
+      "Disponibilidad": true,
+      "CV": 86,
+      "metadata":{
+        "sourceName": "Audi",
+        "sourceUrl" : "https://www.audi.es"
+      }
+    }
+ {
+      "id": 16,
+      "NombrePropietario": "Cécilia",
+      "ApellidoPropietario": "Magarrell",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "mmagarrellf@statcounter.com",
+      "Marca": "Mercedes-Benz",
+      "Modelo": "M-Class",
+      "Año": 2001,
+      "Color": ["Amarillo"],
+      "Disponibilidad": true,
+      "CV": 128,
+      "metadata":{
+        "sourceName": "Mercedes Benz",
+        "sourceUrl" : "https://www.mercedes-benz.es"
+      }
+    }
+ {
+      "id": 17,
+      "NombrePropietario": "Maïlis",
+      "ApellidoPropietario": "McKernan",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "kmckernang@linkedin.com",
+      "Marca": "Isuzu",
+      "Modelo": "Ascender",
+      "Año": 2004,
+      "Color": ["Verde","Gris"],
+      "Disponibilidad": true,
+      "CV": 150,
+      "metadata":{
+        "sourceName": "Isuzu",
+        "sourceUrl" : "https://www.isuzu.es/"
+      }
+    }
+ {
+      "id": 18,
+      "NombrePropietario": "Ruì",
+      "ApellidoPropietario": "Motion",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "cmotionh@upenn.edu",
+      "Marca": "Suzuki",
+      "Modelo": "Swift",
+      "Año": 2004,
+      "Color": ["Negro","Rojo"],
+      "Disponibilidad": true,
+      "CV": 112,
+      "metadata":{
+        "sourceName": "Suzuki",
+        "sourceUrl" : "https://www.suzuki.es"
+      }
+    }
+ {
+      "id": 19,
+      "NombrePropietario": "Jú",
+      "ApellidoPropietario": "Peplaw",
+      "GeneroPropietario": "Male",
+      "Email_Fabricante": "mpeplawi@weebly.com",
+      "Marca": "Oldsmobile",
+      "Modelo": "Bravada",
+      "Año": 2004,
+      "Color": ["Negro","Blanco","Gris"],
+      "Disponibilidad": true,
+      "CV": 145,
+      "metadata":{
+        "sourceName": "Wikipedia",
+        "sourceUrl" : "https://es.wikipedia.org/wiki/Oldsmobile"
+      }
+    }
+{
+      "id": 20,
+      "NombrePropietario": "Mélinda",
+      "ApellidoPropietario": "Pistol",
+      "GeneroPropietario": "Female",
+      "Email_Fabricante": "gpistolj@1688.com",
+      "Marca": "Mazda",
+      "Modelo": "Familia",
+      "Año": 1988,
+      "Color": ["Azul","Negro","Blanco"],
+      "Disponibilidad": false,
+      "CV": 126,
+      "metadata":{
+        "sourceName": "Mazda",
+        "sourceUrl" : "https://www.mazda.es/"
+      }
+    }
