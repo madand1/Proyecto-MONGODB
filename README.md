@@ -11,6 +11,6 @@
 	* Al menos 3 consultas con arrays.
 	* Al menos 3 consultas con documentos embebidos.
 	* Al menos 1 consulta de agrupación.
-## Autora :computer:
+## Autor :computer:
 * Andrés Morales González
 * :school:I.E.S. Gonzalo Nazareno :round_pushpin:(Dos Hermanas, Sevilla).
