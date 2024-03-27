@@ -19,7 +19,7 @@ except pymongo.errors.ServerSelectionTimeoutError as errorTiempo:
 except pymongo.errors.ConnectionFailure as errorConnection:
     print("Fallo al conectarse a MongoDB:", errorConnection)
 
-# Función para mostrar el menú
+#  mostrar el menú
 def mostrar_menu():
     print("\n--- MENÚ ---")
     print("1. Insertar documento")
@@ -30,7 +30,7 @@ def mostrar_menu():
     print("6. Consultar marca y modelo entre fechas de fabricación")
     print("0. Salir")
 
-# Función para insertar un documento
+#  insertar un documento
 def insertar_documento():
     # Solicitar los datos al usuario
     id_ = input("Introduce el ID del vehículo: ")
@@ -63,7 +63,7 @@ def insertar_documento():
     coleccion.insert_one(nuevo_documento)
     print("Documento insertado con éxito.")
 
-# Función para eliminar un documento
+# Función para eliminar 
 def eliminar_modelo():
     while True:
         modelo = input("Introduce el modelo del vehículo a eliminar: ")
